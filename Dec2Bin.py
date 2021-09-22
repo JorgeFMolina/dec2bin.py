@@ -1,4 +1,5 @@
-
+Python 3.2.2 (default, Sep  4 2011, 09:07:29) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
 # ------------------------------------------------------
 # Convierte un número binario a decimal.
 # El binario es un string e.g. "101"
